@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Post body",
+    "foreground": "rgb(201, 210, 197)",
+    "background": "rgb(17, 30, 22)",
+    "ratio": 11.06,
+    "minimum": 4.5
+  },
+  {
+    "name": "Muted report text",
+    "foreground": "rgb(164, 178, 163)",
+    "background": "rgb(22, 36, 27)",
+    "ratio": 7.28,
+    "minimum": 4.5
+  },
+  {
+    "name": "Read on X link",
+    "foreground": "rgb(196, 241, 106)",
+    "background": "rgb(17, 30, 22)",
+    "ratio": 13.22,
+    "minimum": 4.5
+  },
+  {
+    "name": "Primary button",
+    "foreground": "rgb(25, 35, 18)",
+    "background": "rgb(196, 241, 106)",
+    "ratio": 12.5,
+    "minimum": 4.5
+  },
+  {
+    "name": "Input boundary",
+    "foreground": "rgb(100, 120, 92)",
+    "background": "rgb(17, 30, 22)",
+    "ratio": 3.59,
+    "minimum": 3
+  },
+  {
+    "name": "Search focus against input",
+    "foreground": "rgb(196, 241, 106)",
+    "background": "rgb(17, 30, 22)",
+    "ratio": 13.22,
+    "minimum": 3
+  },
+  {
+    "name": "Search focus against page",
+    "foreground": "rgb(196, 241, 106)",
+    "background": "rgb(12, 21, 16)",
+    "ratio": 14.28,
+    "minimum": 3
+  }
+]

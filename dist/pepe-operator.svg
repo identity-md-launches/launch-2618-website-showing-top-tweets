@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" fill="none">
+  <defs>
+    <linearGradient id="jacket" x1="251" y1="170" x2="360" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#344c37"/><stop offset="1" stop-color="#16291e"/></linearGradient>
+    <linearGradient id="skin" x1="265" y1="72" x2="353" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#83a757"/><stop offset="1" stop-color="#567f42"/></linearGradient>
+    <linearGradient id="glass" x1="329" y1="100" x2="381" y2="143" gradientUnits="userSpaceOnUse"><stop stop-color="#cee888" stop-opacity=".8"/><stop offset="1" stop-color="#6fbd99" stop-opacity=".35"/></linearGradient>
+    <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#d6e9b9" opacity=".15"/></pattern>
+  </defs>
+  <g opacity=".3" stroke="#74995b" stroke-width="1">
+    <circle cx="318" cy="168" r="130"/><circle cx="318" cy="168" r="113" stroke-dasharray="3 8"/>
+    <path d="M145 168h35m275 0h34M318 17v22m0 242v19M170 76l29 17m235 139 27 15"/>
+    <path d="M135 250h47l21-21M390 53h28l21-21h31M128 133h31l14-14h26"/>
+    <circle cx="135" cy="250" r="3"/><circle cx="470" cy="32" r="3"/><circle cx="128" cy="133" r="3"/>
+  </g>
+  <ellipse cx="318" cy="298" rx="149" ry="13" fill="#0d1c12" opacity=".6"/>
+  <!-- Antenna and a frog-shaped scout drone. -->
+  <g stroke="#102216" stroke-width="3" stroke-linejoin="round">
+    <path d="m416 92 10-13m36 13-9-13" stroke="#a0be75"/>
+    <path d="M409 76c-9-6-21-8-32-4m84 5c12-7 25-8 36-3" stroke="#779568" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="389" cy="73" rx="23" ry="4" fill="#566f4a"/><ellipse cx="481" cy="75" rx="23" ry="4" fill="#566f4a"/>
+    <path d="M413 88c-1-15 8-24 23-24 15 0 26 10 25 23l-5 17h-37l-6-16Z" fill="#91af61"/>
+    <path d="M420 71c-5-15 11-18 13-6m10 1c4-13 18-8 12 7" fill="#9cba6d"/>
+    <path d="M417 86c9-9 25-10 41 1l-4 10h-32l-5-11Z" fill="#21372b"/>
+    <path d="M427 86v5m20-5v5" stroke="#c4f16a" stroke-width="4" stroke-linecap="round"/>
+    <path d="m430 104 5 9 5-9" fill="#c4f16a"/>
+  </g>
+  <path d="m434 123-31 47" stroke="#c4f16a" opacity=".4" stroke-dasharray="3 5"/>
+  <!-- Backpack, antenna, and jacket. -->
+  <g stroke="#102216" stroke-width="4" stroke-linejoin="round">
+    <path d="M226 208v-69l-7-18" stroke="#9dbb75" stroke-width="3"/>
+    <circle cx="219" cy="119" r="4" fill="#c4f16a" stroke-width="2"/>
+    <path d="M231 202h-26c-13 0-20 17-20 29v69h62V213Z" fill="#263f2b"/>
+    <path d="M204 235h20v42h-20z" fill="#3d5434" stroke-width="2"/>
+    <path d="M247 180c-20 10-40 34-45 66l-9 54h209l-16-71c-7-26-26-42-50-47l-89-2Z" fill="url(#jacket)"/>
+    <path d="m263 184-14 32 33 26 18-35 20 34 35-27-17-30" fill="#4d6541"/>
+    <path d="m300 207-2 93" stroke="#0c1a12" stroke-width="6"/>
+    <path d="m239 213-6 87m121-86 17 86" stroke="#8a9860" stroke-width="11"/>
+    <path d="m239 213-6 87m121-86 17 86" stroke="#172a1d" stroke-width="2"/>
+    <path d="M259 248h26v36h-30l4-36Zm60-3h23v37h-24l1-37Z" fill="#344b30" stroke-width="2"/>
+    <path d="m260 257 22 1m38-3h21" stroke="#7a8e55" stroke-width="2"/>
+    <path d="M218 220c-18 15-24 42-12 54 16 16 32 12 48 3l21-16-13-26-29 12" fill="#3d5737"/>
+  </g>
+  <!-- Pepe's familiar sleepy face. -->
+  <g stroke="#1a2c18" stroke-width="3.5" stroke-linejoin="round">
+    <path d="M257 91c-5-27 18-39 37-28 14-16 42-10 48 9 31 3 47 27 43 61-3 33-19 58-58 65-39 8-77-4-88-28-11-25-11-62 18-79Z" fill="url(#skin)"/>
+    <path d="M251 114c-10-32 9-50 30-46 23 3 28 23 23 48l-53-2Z" fill="#91ae63"/>
+    <path d="M303 112c-2-30 10-48 31-44 23 3 28 26 22 48l-53-4Z" fill="#91ae63"/>
+    <path d="M252 106c2-13 12-17 24-15 12 1 22 8 22 20l-46-5Z" fill="#e3dfb8"/>
+    <path d="M307 105c5-13 14-16 26-14 11 3 18 8 18 21l-44-7Z" fill="#e3dfb8"/>
+    <path d="m280 98-1 11m54-10-1 11" stroke="#17251a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M249 107c16 1 32 6 51 7m5-7c15 0 30 5 50 9" stroke-width="5" stroke-linecap="round"/>
+    <path d="M242 140c27-13 63 6 91 10 15 3 26 2 40-3-2 22-23 36-57 35-35 0-63-8-74-21-6-7-7-15 0-21Z" fill="#9c704d"/>
+    <path d="M245 151c27 9 70 16 111 7" stroke="#503c27" stroke-width="4" stroke-linecap="round"/>
+    <path d="M254 173c28 15 59 16 83 10" stroke="#a8bc73" stroke-width="2"/>
+    <path d="m241 131 9-3m109 9 9-1" stroke="#486d39" stroke-width="2"/>
+  </g>
+  <!-- Neural visor: glass, HUD, and temple hardware. -->
+  <g stroke="#14291d" stroke-linejoin="round">
+    <path d="m322 89 50 3 9 42-45 8-14-53Z" fill="url(#glass)" stroke-width="3"/>
+    <path d="m327 94 17 44m-11-43 17 42" stroke="#d4f1a9" opacity=".45" stroke-width="2"/>
+    <path d="m370 101 18-1 3 24-15 5" fill="#344d34" stroke-width="3"/>
+    <path d="m386 123 8 10-3 16-12 4" stroke="#91af6a" stroke-width="3"/>
+    <circle cx="377" cy="153" r="4" fill="#c4f16a" stroke-width="2"/>
+    <path d="M348 111h16m-8-8v16" stroke="#e0ffb2" stroke-width="1"/>
+    <circle cx="356" cy="111" r="9" stroke="#d3f796" stroke-width="1"/>
+  </g>
+  <!-- A neural blaster, with a bright AI core and circuit rails. -->
+  <g transform="rotate(-14 332 249)" stroke="#0f2117" stroke-linejoin="round">
+    <path d="m282 258 14 42h24l-6-44" fill="#465942" stroke-width="4"/>
+    <path d="M240 226h41l18-15h101l16 15h56v33h-58l-15 14H284l-15-15h-29v-32Z" fill="#394f3f" stroke-width="4"/>
+    <path d="m298 220 95 0 13 13v20l-13 11h-95l-13-11v-20l13-13Z" fill="#1c3428" stroke-width="3"/>
+    <path d="M318 227h50v29h-50z" fill="#a8d56e" stroke-width="3"/>
+    <path d="M325 235h10v13h-10zM341 235h17m-17 6h13m-13 6h17" stroke="#294431" stroke-width="2"/>
+    <path d="M416 227h45v31h-45z" fill="#668165" stroke-width="3"/>
+    <path d="M427 229v26m9-26v26m9-26v26" stroke-width="3"/>
+    <path d="M461 231h18v24h-18z" fill="#a8d56e" stroke-width="3"/>
+    <path d="m303 211 11-12h53l12 12" fill="#596f4c" stroke-width="3"/>
+    <path d="M255 234h17m-17 9h17" stroke="#99b47a" stroke-width="2"/>
+    <path d="m285 258 12 7m78-42h17m-17 7h17" stroke="#99b47a" stroke-width="2"/>
+    <path d="M258 260c-5-12-7-20-16-18-7 1-12 8-12 14-9-1-13 10-7 16 12 10 28 8 35-12Z" fill="#789954" stroke-width="3"/>
+    <path d="m229 255 13 6m-16 2 11 5" stroke="#4d723c" stroke-width="2"/>
+    <path d="M381 264c-6-7-4-14 3-17 8-2 12 5 15 5 2-6 13-3 14 4 0 14-17 22-32 8Z" fill="#789954" stroke-width="3"/>
+  </g>
+  <path d="m488 216 12-2m-15 10 9 4m-10-21 8-7" stroke="#c4f16a" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  <path d="M215 292h179" stroke="#8daa66" opacity=".2"/>
+  <path d="M248 88h109v104H248z" fill="url(#dots)" opacity=".3"/>
+</svg>

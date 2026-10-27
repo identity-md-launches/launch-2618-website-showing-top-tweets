@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "path": "dist/THIRD-PARTY-LICENSES.txt",
+      "bytes": 1295,
+      "sha256": "78ed687d6290f89778273e67e2cd74099a33624c09ead302c332fe872a0a313a"
+    },
+    {
+      "path": "dist/assets/index-CtSLgdvB.css",
+      "bytes": 21872,
+      "sha256": "b7ff5129cb1d661ce76eaa8cb51ca66bd411e490b808318a49d687e785dd6f62"
+    },
+    {
+      "path": "dist/assets/index-yg41Rutp.js",
+      "bytes": 216497,
+      "sha256": "f037b3f8518d5c8bf90eeab45ffd948cd86e7d32e22c6d946b1fe4f3b0289f38"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 429,
+      "sha256": "7df143aec6de3a5f01984ad6a90105f7c1f0d4be2b60608325921396b119dff7"
+    },
+    {
+      "path": "dist/fonts/OFL.txt",
+      "bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "dist/fonts/manrope-latin-variable.woff2",
+      "bytes": 24836,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1427,
+      "sha256": "6b0e3dbbb4e64e43b1f36fb47cc125f7e74a85da7fc3db7add963cb894dd2244"
+    },
+    {
+      "path": "dist/og-image.png",
+      "bytes": 128796,
+      "sha256": "721297658de0141a58f7d8f40518c7ff427e422575ae2619c8448f70614d274e"
+    },
+    {
+      "path": "dist/pepe-operator.svg",
+      "bytes": 6626,
+      "sha256": "269370f754b4ad6949d1aefce37720476711e03234c24edfe9deb425f78ce12f"
+    },
+    {
+      "path": "dist/pepe-scout.svg",
+      "bytes": 1693,
+      "sha256": "6fa141ee3fb5368a65bb6deb77a22e569bd8a894ea846d1d937d99878c43167e"
+    }
+  ],
+  "totalBytes": 407858
+}

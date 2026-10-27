@@ -1,0 +1,56 @@
+Submission candidate audit
+
+Budget: 8388608 bytes (8 MiB)
+Candidate files: 45
+Total candidate bytes: 1081477
+Production export bytes: 407858
+
+Excludes supplied .imd inputs, protected metadata, and the disposable test/scratch directory.
+No ignore files changed. No dependency/cache directories, archives, symlinks or submodules added.
+All source, package manifest/lockfile, local runtime assets, documentation and final export retained.
+
+    10111  DESIGN.md
+     5777  README.md
+     3903  SOURCES.md
+     1490  THIRD_PARTY_NOTICES.md
+    12334  VALIDATION.md
+     1295  dist/THIRD-PARTY-LICENSES.txt
+    21872  dist/assets/index-CtSLgdvB.css
+   216497  dist/assets/index-yg41Rutp.js
+      429  dist/favicon.svg
+     4387  dist/fonts/OFL.txt
+    24836  dist/fonts/manrope-latin-variable.woff2
+     1427  dist/index.html
+   128796  dist/og-image.png
+     6626  dist/pepe-operator.svg
+     1693  dist/pepe-scout.svg
+     1327  index.html
+    11964  licenses/design-guidance.txt
+     1088  licenses/react-dom.txt
+     1088  licenses/react.txt
+    61860  package-lock.json
+      516  package.json
+     1295  public/THIRD-PARTY-LICENSES.txt
+      429  public/favicon.svg
+     4387  public/fonts/OFL.txt
+    24836  public/fonts/manrope-latin-variable.woff2
+   128796  public/og-image.png
+     6626  public/pepe-operator.svg
+     1693  public/pepe-scout.svg
+     1711  scripts/og-card.html
+    15951  scripts/validate.mjs
+     1907  src/icons.tsx
+    18635  src/main.tsx
+     4427  src/posts.ts
+    24988  src/styles.css
+      449  tsconfig.json
+        2  validation/axe.json
+     1905  validation/bundle-budget.txt
+     1098  validation/contrast.json
+   152838  validation/desktop-1440.png
+     1633  validation/export-manifest.json
+     7390  validation/interactions.json
+    79155  validation/keyboard-focus.png
+    78453  validation/mobile-390.png
+     3360  validation/taste.json
+      197  vite.config.ts
